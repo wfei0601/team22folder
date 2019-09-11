@@ -1,2 +1,1 @@
-# team22folder
- 
+Which method do you prefer?
